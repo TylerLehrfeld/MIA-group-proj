@@ -1,0 +1,10 @@
+{
+  "subject_id": "subj106",
+  "hemisphere": "right",
+  "catheter_length_mm": 62.94,
+  "spacing_zyx_mm": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}
